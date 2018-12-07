@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Armsport {
+class Main {
     public static void main(String args[]) {
 
         Sportsman sportsmanList[] = new Sportsman[10];
